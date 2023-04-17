@@ -6,4 +6,5 @@ public class modulo {
         int B = 5;
          System.out.println("modulo(remainder) = " + (A%B));
     }    
+    
 }
