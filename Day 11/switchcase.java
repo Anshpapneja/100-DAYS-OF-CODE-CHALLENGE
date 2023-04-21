@@ -13,4 +13,6 @@ public class switchcase {
             default : System.out.println("We wake up");
         }
     }    
+      
+
 }
