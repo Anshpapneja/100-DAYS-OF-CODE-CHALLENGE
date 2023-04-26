@@ -6,5 +6,7 @@ public class Assignmentop {
        // A = A + 10;
        A += 10;
        System.out.println(A);
-   }    
+ 
+    }    
 }
+
