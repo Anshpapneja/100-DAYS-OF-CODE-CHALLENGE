@@ -10,4 +10,5 @@ public class printreverse {
             n = n/10;
        }
     }    
-}
+  }
+ 
