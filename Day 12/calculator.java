@@ -2,6 +2,7 @@ import java.util.*;
 
 import javax.swing.plaf.synth.SynthTreeUI;
 
+
 public class calculator {
     public static void main(String[] args) {
     Scanner Sc = new Scanner(System.in);
